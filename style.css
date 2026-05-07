@@ -1,7 +1,8 @@
-*{
-    box-sizing: border-box;
+h1 {
+    box-sizing: 20px border-box;grid-template-columns:
     padding: 0;
     margin: 0;
+    width 
 }
 
 /* write all your rules below */
